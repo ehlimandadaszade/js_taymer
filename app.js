@@ -49,7 +49,7 @@ start.addEventListener("click", () => {
 
             }
         }
-    }, 100);
+    }, 1000);
 })
 reset.addEventListener("click", () => {
     clearInterval(set)
